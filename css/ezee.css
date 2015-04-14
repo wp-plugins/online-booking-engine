@@ -1,0 +1,62 @@
+.ezeesettingfrm p
+{
+    width:100%;
+
+}
+.ezeesettingfrm label
+{
+    float:left;
+    width:160px;
+    font-size:15px;
+
+}
+.ezeesettingfrm .form-field input, .ezeesettingfrm input.regular-text {
+    width: 32.5em;
+}
+.codeinfo
+{
+    border:1px solid #B5DBEA;
+    background:#DEF6FF;
+    padding:10px;
+    margin:20px 0px;
+    width:43%;
+    text-align:center;
+}
+.customwidgetcode
+{
+    display:block !important;
+}
+.onchange="valueChanged()"
+{
+    width:100%;
+}
+.morehelpwrap
+{
+    margin-top:100px;
+}
+a.ezeebtn
+{        
+    background:#678705;
+    transition:all 1s ease !important;
+    -moz-transition:all 1s ease !important; /* Firefox 4 */
+    -webkit-transition:all 1s ease !important; /* Safari and Chrome */
+    -o-transition:all 1s ease !important; /* Opera */
+    float:left;
+    padding:15px 13px;
+    text-decoration: none;
+    border:1px solid #516711;
+    font-size:18px;
+    color:#ffffff;
+    margin-right:15px;
+    border-radius:6px;
+    -moz-border-radius:6px;
+    -webkit-border-radius:6px;
+}
+a.ezeebtn:hover
+{
+    background:#DAA20C;
+    color:#fff !important;
+    border:1px solid #C6950E;
+
+}  
+           
