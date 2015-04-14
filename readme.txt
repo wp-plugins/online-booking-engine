@@ -33,11 +33,11 @@ eZee Reservation is the perfect solution for hotel, resorts, B&B, resorts, hotel
 
 == Installation ==
 
-Step 1: Download wpezeereservation extension for wordpress
+Step 1: Download online-booking-engine extension for wordpress
 
 Step 2: Login to your wordpress website admin panel
 
-Step 3: Unzip wpezeereservation.zip and Upload wpezeereservation directory to the /wp-content/plugins/ directory
+Step 3: Unzip online-booking-engine.zip and Upload online-booking-engine directory to the /wp-content/plugins/ directory
 
 Step 4: Activate the plugin through the 'Plugins' menu in WordPress
 
