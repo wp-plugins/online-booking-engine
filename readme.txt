@@ -14,8 +14,6 @@ eZee Reservation Wordpress Plugin provides a high rate of converting lookers int
 **eZee Online Booking Engine** is an Online Booking System [http://ezeeabsolute.com/bookingengine.php] that provided provides a high rate of converting lookers into bookers.
 Online hotel reservation system provides ample tools that help hoteliers increase their online exposure and drive up revenue. 
 
-* [User Wordpress Online Booking Engine Manual](http://ezeereservation.com/resdemodoc/wordpress.php)
-
 eZee Reservation is an Online Booking Engine which integrates seamlessly to the property website and gives clients the ability to book reservations, packages, and offers directly from the website. Now even more accessible with Wordpress plugin, allowing you to integrate it easily with your hotel website and giving your guests the ability to book directly. Increase your global reach with eZee Reservation by providing clients with a superior booking experience. 
 
 * Unlimited commission free bookings
@@ -45,6 +43,8 @@ Step 4: Activate the plugin through the 'Plugins' menu in WordPress
 
 Step 5: To Display the eZee Reservation on your website page. Page minimum width should be 930px. Paste the following code in page and click on update button
 [ezee_booking_engine_code]
+
+* [User Wordpress Online Booking Engine Manual](http://ezeereservation.com/resdemodoc/wordpress.php)
 
 = How to get your own property account? =
 
