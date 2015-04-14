@@ -33,7 +33,7 @@ eZee Reservation is the perfect solution for hotel, resorts, B&B, resorts, hotel
 
 == Installation ==
 
-Step 1: Download online-booking-engine extension for wordpress
+Step 1: Download eZee Online Booking System extension for wordpress
 
 Step 2: Login to your wordpress website admin panel
 
