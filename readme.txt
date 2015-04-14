@@ -7,7 +7,7 @@ Tested up to: 4.1.1
 Stable tag: 4.1.1
 License: GPLv2 or later
 
-eZee Reservation Wordpress plugin is solutions for hotel, resorts, B&B, hotel chains, motels to get online bookings from their own property website.
+eZee Reservation Wordpress plugin is solutions for hotel, resorts, B&B, hotel chains, motels to get online bookings from their own hotel website.
 
 == Description ==
 
