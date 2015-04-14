@@ -7,7 +7,7 @@ Tested up to: 4.1.1
 Stable tag: 4.1.1
 License: GPLv2 or later
 
-eZee Reservation Wordpress Plugin provides a high rate of converting lookers into bookers.
+eZee Reservation Wordpress plugin is solutions for hotel, resorts, B&B, hotel chains, motels to get online bookings from their own property website.
 
 == Description ==
 
