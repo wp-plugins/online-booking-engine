@@ -12,7 +12,7 @@ eZee Reservation Wordpress plugin is solutions for hotel, resorts, B&B, hotel ch
 == Description ==
 
 **eZee Online Booking Engine** is an [Online Booking System](http://ezeeabsolute.com/bookingengine.php) that provided provides a high rate of converting lookers into bookers.
-Online hotel reservation system provides ample tools that help hoteliers increase their online exposure and drive up revenue. 
+[Online hotel reservation system](http://www.ezeereservation.com) provides ample tools that help hoteliers increase their online exposure and drive up revenue. 
 
 eZee Reservation is an Online Booking Engine which integrates seamlessly to the property website and gives clients the ability to book reservations, packages, and offers directly from the website. Now even more accessible with Wordpress plugin, allowing you to integrate it easily with your hotel website and giving your guests the ability to book directly. Increase your global reach with eZee Reservation by providing clients with a superior booking experience. 
 
