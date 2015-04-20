@@ -1,4 +1,4 @@
-=== eZee Online Booking System ===
+=== eZee Hotel Booking Engine Plugin for WordPress Hotel Websites ===
 Contributors: eZee Technosys
 Donate link: 
 Tags: Accommodations, Reservation, reserve room, availability, bed and breakfast, Booking, Room availability, booking form, booking system, bookings, booking enquiry, hotels , motel booking , web booking, ,online reservation, reservation plugin, rooms
