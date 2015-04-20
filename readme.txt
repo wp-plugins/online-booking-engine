@@ -35,6 +35,8 @@ The eZee Booking WordPress plugin is free to use, but you do [need an account](h
 
 **eZee offers free installation for the eZee Hotel Booking Engine Plugin. Contact us to get that done by our experts for you.**
 
+Optional Channel Manager which has connectivity to more than 80 OTA including Booking.com, Expedia, Agoda, Laterooms, Wotif Group. For full list visit [Channel Page](http://ezeeabsolute.com/channels.php)
+
 == Installation ==
 
 eZee offers free installation for the eZee Hotel Booking Engine Plugin. Contact us to get that done by our experts for you.
@@ -55,7 +57,7 @@ Step 5: To Display the eZee Reservation on your website page. Page minimum width
 
 = How to get your own property account? =
 
-1. Create your [eZee account](http://www.ezeereservation.com/live_demo.php) & check documentation (http://ezeereservation.com/resdemodoc/wordpress.php) for further configuration 
+1. Create your [eZee account](http://www.ezeereservation.com/live_demo.php) & check [documentation](http://ezeereservation.com/resdemodoc/wordpress.php) for further configuration 
 
 == Screenshots ==
     
