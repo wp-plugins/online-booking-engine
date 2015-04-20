@@ -1,7 +1,7 @@
 === eZee Hotel Booking Engine Plugin for WordPress Hotel Websites ===
 Contributors: eZee Technosys
 Donate link: 
-Tags: Accommodations, Reservation, reserve room, availability, bed and breakfast, Booking, Room availability, booking form, booking system, bookings, booking enquiry, hotels , motel booking , web booking, ,online reservation, reservation plugin, rooms
+Tags: Accommodations, Reservation, reserve room, availability, bed and breakfast, Booking, Room availability, booking form, booking system, bookings, booking enquiry, hotels , motel booking , web booking, ,online reservation, reservation plugin, rooms , b&b , booking system, holiday apartments, holiday rentals, hostel, hotel, hotels, online booking, online hotel software, PMS, reservation system, revenue management, rooms, yield management, hotel booking engine, Internet booking engine
 Requires at least: 3.0.1
 Tested up to: 4.1.1
 Stable tag: 4.1.1
@@ -31,7 +31,14 @@ eZee Reservation is an Online Booking Engine which integrates seamlessly to the 
 
 eZee Reservation is the perfect solution for hotel, resorts, B&B, resorts, hotel chains, motels or any other accommodation type that want to receive direct bookings from their website. 
 
+The eZee Booking WordPress plugin is free to use, but you do [need an account](http://www.ezeereservation.com/live_demo.php) on [www.eZeeReservation.com.](http://www.ezeereservation.com)
+
+**eZee offers free installation for the eZee Hotel Booking Engine Plugin. Contact us to get that done by our experts for you.**
+
 == Installation ==
+
+eZee offers free installation for the eZee Hotel Booking Engine Plugin. Contact us to get that done by our experts for you.
+Or if you want to do it on your own please follow the steps below.
 
 Step 1: Download eZee Online Booking System extension for wordpress
 
@@ -48,7 +55,7 @@ Step 5: To Display the eZee Reservation on your website page. Page minimum width
 
 = How to get your own property account? =
 
-1. Create your [eZee account](http://ezeeabsolute.com/pricing.php) & check documentation (http://ezeereservation.com/resdemodoc/wordpress.php) for further configuration 
+1. Create your [eZee account](http://www.ezeereservation.com/live_demo.php) & check documentation (http://ezeereservation.com/resdemodoc/wordpress.php) for further configuration 
 
 == Screenshots ==
     
