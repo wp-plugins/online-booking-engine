@@ -7,7 +7,7 @@ Tested up to: 4.1.1
 Stable tag: 4.1.1
 License: GPLv2 or later
 
-eZee Reservation Wordpress plugin is solutions for hotel, resorts, B&B, hotel chains, motels to get online bookings from their own hotel website.
+eZee Reservation plugin is solutions for hotel, resorts, B&B, hotel chains, to get commission free online bookings from their own hotel website.
 
 == Description ==
 
@@ -63,3 +63,23 @@ Step 5: To Display the eZee Reservation on your website page. Page minimum width
     
 1.  WordPress Booking Engine - Admin Settings
 2.  WordPress Booking Engine - Front Side
+
+== Frequently Asked Questions ==
+
+**Do I need a eZee account?**
+Yes. A free trial account is available at http://ezeereservation.com/live_demo.php
+
+**Do you need to know more about eZee Reservation and its pricing?**
+Please check prices list on http://www.ezeereservation.com/pricing.php
+
+**Can I accept credit cards / PayPal or include my preferred payment gateway in eZee Reservation?**
+Yes, you can use multiple payment methods and gateways with eZee Reservation. If you have the integration details for your preferred payment gateway, please pass it to us and we will get it integrated into your eZee Reservation system. For credit cards, eZee Reservation will only capture user data; actual processing of the information will have to be carried out manually by the system administrator.
+
+**Will eZee Reservation support my local or regional language?**
+Yes, eZee Reservation supports many languages. Just select the number of languages you would like to have in your system at the time of buying a license for eZee Reservation. Alternatively, you can also have these languages integrated into your reservation system at a later stage as per your requirements.
+
+**Can I customise the booking widgets ?**
+Yes, you can fully customise the look to seamlessly fit into your site.You can even Contact us to get that done by our experts for you.
+
+**Will I be on a contract?**
+No. There is only minimum one month sign-up period. eZee is a pre-pay, pay as you go service. You may cancel your account at any time.
