@@ -66,7 +66,7 @@ Step 5: To Display the eZee Reservation on your website page. Page minimum width
 
 == Frequently Asked Questions ==
 
-**Do I need a eZee account?**
+= **Do I need a eZee account?** =
 Yes. A free trial account is available at http://ezeereservation.com/live_demo.php
 
 **Do you need to know more about eZee Reservation and its pricing?**
