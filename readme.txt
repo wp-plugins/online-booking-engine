@@ -66,20 +66,24 @@ Step 5: To Display the eZee Reservation on your website page. Page minimum width
 
 == Frequently Asked Questions ==
 
-= Do I need a eZee account? =
-Yes. A free trial account is available at http://ezeereservation.com/live_demo.php
+= Do I need to create an eZee account? =
+Yes, you can create a free trial account from the following link http://ezeereservation.com/live_demo.php
 
-= Do you need to know more about eZee Reservation and its pricing? =
-Please check prices list on http://www.ezeereservation.com/pricing.php
+= What is the pricing of eZee Reservation? =
+You can request for a quote from the following link http://www.ezeereservation.com/pricing.php
 
 = Can I accept credit cards / PayPal or include my preferred payment gateway in eZee Reservation? =
-Yes, you can use multiple payment methods and gateways with eZee Reservation. If you have the integration details for your preferred payment gateway, please pass it to us and we will get it integrated into your eZee Reservation system. For credit cards, eZee Reservation will only capture user data; actual processing of the information will have to be carried out manually by the system administrator.
+Yes, eZee Reservation offers multiple payment methods. If you want to integrate your preferred payment gateway with eZee Reservation, contact us and our team will integrate it into your eZee Reservation system. 
 
-= Will eZee Reservation support my local or regional language? =
+In addition, we also offer integration with credit card payment gateway which will allow your guests to make payments for their bookings easily. Once the booking is done and payment made, the system only captures the user data and the actual processing of the information is to be done manually by the system admin. 
+
+= Does eZee Reservation support multiple languages? =
 Yes, eZee Reservation supports many languages. Just select the number of languages you would like to have in your system at the time of buying a license for eZee Reservation. Alternatively, you can also have these languages integrated into your reservation system at a later stage as per your requirements.
 
-= Can I customise the booking widgets ? =
-Yes, you can fully customise the look to seamlessly fit into your site.You can even Contact us to get that done by our experts for you.
+= Is the booking widget costomizable? =
+Yes, the booking widget is completely comstomizable and will fit the look and feel of your website seamlessly. You can contact our team and our experts can get it done for you as well. 
 
-= Will I be on a contract? =
-No. There is only minimum one month sign-up period. eZee is a pre-pay, pay as you go service. You may cancel your account at any time.
+= Do I have to sign a contract of any type? =
+No, eZee Reservation is on a contract free pay-as-you-go model without any commitments. You may cancel your account at any time.
+
+
