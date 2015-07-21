@@ -33,7 +33,7 @@ eZee Reservation is the perfect solution for hotel, resorts, B&B, resorts, hotel
 
 The eZee Booking WordPress plugin is free to use, but you do [need an account](http://www.ezeereservation.com/live_demo.php) on [www.eZeeReservation.com.](http://www.ezeereservation.com)
 
-**eZee offers free installation for the eZee Hotel Booking Engine Plugin. Contact us to get that done by our experts for you.**
+**eZee Booking Engine is available as a Plugin for non-Word Press sites too. eZee offers free implementation on booking engine be it a WP site or any other.**
 
 Optional Channel Manager which has connectivity to more than 80 OTA including Booking.com, Expedia, Agoda, Laterooms, Wotif Group. For full list visit [Channel Page](http://ezeeabsolute.com/channels.php)
 
