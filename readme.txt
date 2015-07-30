@@ -17,17 +17,17 @@ eZee Reservation plugin is solutions for hotel, resorts, B&B, hotel chains, to g
  
 **KEY BENEFITS :**
 **Why eZee Booking Engine ? Powerful Features, Flexibility and Easy to Use Interface**
-Easy Navigation : Booker can easily find the rooms, rates offered, special promotions and process buttons.
 
-Presentation Neat & Clean : Photos and rates in plain sight and neat.
-Minimum Click counts : The two click process makes the booking process swift and easier than ever to book with your hotel.
-Clear Rates Including Saving : The guests are able to see the amount which they will be saving with the booking easing their decision making process.
-Personalize to Match Your Brand : CSS and other design functions of the booking engine to fit it into your design.
-Multiple Room Booking & Layout Interfaces : eZee Offers layouts that suits to your business and targeted audience for better conversion on visitor to booker.It Offers single transaction with multiple room types & rooms booking.
-Global Language & Multiple Currency supported : The Online Booking Engine is currently available in more than six major languages from around the world. In fact, you can translate the booking engine to any language and if the language of your choice is not available, just contact us and we can start working on the translation.
-Credit Card Option : More than 50 payment gateway options to choose from, the ever growing list provides your guests to make direct payments, credit card and online banking (net banking).
-Notification & alerts : Quick alerts in the system keeps you posted with the recent bookings, latest guest reviews and current visitors. The notification system ensures that you are always up to date with various processes taking place in your hotel.
-Smart Phone Support
+*Easy Navigation : Booker can easily find the rooms, rates offered, special promotions and process buttons.
+*Presentation Neat & Clean : Photos and rates in plain sight and neat.
+*Minimum Click counts : The two click process makes the booking process swift and easier than ever to book with your hotel.
+*Clear Rates Including Saving : The guests are able to see the amount which they will be saving with the booking easing their decision making process.
+*Personalize to Match Your Brand : CSS and other design functions of the booking engine to fit it into your design.
+*Multiple Room Booking & Layout Interfaces : eZee Offers layouts that suits to your business and targeted audience for better conversion on visitor to booker.It Offers single transaction with multiple room types & rooms booking.
+*Global Language & Multiple Currency supported : The Online Booking Engine is currently available in more than six major languages from around the world. In fact, you can translate the booking engine to any language and if the language of your choice is not available, just contact us and we can start working on the translation.
+*Credit Card Option : More than 50 payment gateway options to choose from, the ever growing list provides your guests to make direct payments, credit card and online banking (net banking).
+*Notification & alerts : Quick alerts in the system keeps you posted with the recent bookings, latest guest reviews and current visitors. The notification system ensures that you are always up to date with various processes taking place in your hotel.
+*Smart Phone Support
 
 **Increase Bookings and Revenue**
 Create Any Number of custom Offers/Package and Special Promotions
