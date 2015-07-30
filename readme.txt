@@ -1,4 +1,4 @@
-=== eZee Hotel Booking Engine Plugin for WordPress ===
+=== eZee Online Hotel Booking Engine ===
 Contributors: eZee Technosys
 Donate link: 
 Tags: Accommodations, Reservation, reserve room, availability, bed and breakfast, Booking, Room availability, booking form, booking system, bookings, booking enquiry, hotels , motel booking , web booking, ,online reservation, reservation plugin, rooms , b&b , booking system, holiday apartments, holiday rentals, hostel, hotel, hotels, online booking, online hotel software, PMS, reservation system, revenue management, rooms, yield management, hotel booking engine, Internet booking engine, hotel booking plugin , booking calendar , availability calendar , reservation plugin , widget , reservation widget , Bed & Breakfast , booking engine , Reservation Payments , Rental Booking , Booking Software , booking plugin , Activity Booking , villa booking , wordpress hotel booking plugin , booking system plugin
@@ -11,29 +11,75 @@ eZee Reservation plugin is solutions for hotel, resorts, B&B, hotel chains, to g
 
 == Description ==
 
-**eZee Online Booking Engine** is an [Online Booking System](http://ezeeabsolute.com/bookingengine.php) that provided provides a high rate of converting lookers into bookers.
-[Online hotel reservation system](http://www.ezeereservation.com) provides ample tools that help hoteliers increase their online exposure and drive up revenue. 
+**eZee Online Booking Engine** is an [Online Booking System](http://ezeeabsolute.com/bookingengine.php) that provides multiple layout interfaces which suites to individual business needs with minimum click count booking process. Guests can easily find room, rate and next button with real time availability and flexibility on individual & group booking from their smart phones and tablets. Generate higher revenues by allowing your guests to access special offers, promo codes for special rates and ability to do group bookings.
+ 
+[Online hotel reservation system](http://www.ezeeabsolute.com) which integrates seamlessly to the property website and gives clients the ability to book reservations, packages, and offers directly from the website. Now even more accessible with WordPress plugin, allowing you to integrate it easily with your hotel website and giving your guests the ability to book directly. Increase your global reach with eZee Reservation by providing clients with a superior booking experience.
+ 
+= KEY BENEFITS : =
 
-eZee Reservation is an Online Booking Engine which integrates seamlessly to the property website and gives clients the ability to book reservations, packages, and offers directly from the website. Now even more accessible with Wordpress plugin, allowing you to integrate it easily with your hotel website and giving your guests the ability to book directly. Increase your global reach with eZee Reservation by providing clients with a superior booking experience. 
+= Why eZee Booking Engine ? Powerful Features, Flexibility and Easy to Use Interface =
 
-* Unlimited commission free bookings
-* Customization freedom
-* Available in multiple languages
-* Central reservation system
-* Mobile bookings 
-* Facebook integration
-* TripConnect premium partner
-* Yield management
-* Last minute deals, packages and special offers
-* Promotional newsletter
-* Guest reviews
-* And many more
+* Easy Navigation : Booker can easily find the rooms, rates offered, special promotions and process buttons.
+* Presentation Neat & Clean : Photos and rates in plain sight and neat.
+* Minimum Click counts : The two click process makes the booking process swift and easier than ever to book with your hotel.
+* Clear Rates Including Saving : The guests are able to see the amount which they will be saving with the booking easing their decision making process.
+* Personalize to Match Your Brand : CSS and other design functions of the booking engine to fit it into your design.
+* Multiple Room Booking & Layout Interfaces : eZee Offers layouts that suits to your business and targeted audience for better conversion on visitor to booker.It Offers single transaction with multiple room types & rooms booking.
+* Global Language & Multiple Currency supported : The Online Booking Engine is currently available in more than six major languages from around the world. In fact, you can translate the booking engine to any language and if the language of your choice is not available, just contact us and we can start working on the translation.
+* Credit Card Option : More than 50 payment gateway options to choose from, the ever growing list provides your guests to make direct payments, credit card and online banking (net banking).
+* Notification & alerts : Quick alerts in the system keeps you posted with the recent bookings, latest guest reviews and current visitors. The notification system ensures that you are always up to date with various processes taking place in your hotel.
+* Smart Phone Support
+
+= Increase Bookings and Revenue = 
+* Create Any Number of custom Offers/Package and Special Promotions
+* Secret/Special Deals for Frequent Guests
+* Special Discounts for Corporate Clients
+* Affiliate Group Tracking and Booking
+* Reviews Increase Sales
+* Yield Management
+Significantly increase your hotel's booking with Yield Management, the tool lets you set rates based upon occupancy levels and combine other factors such as room type and other fees. Combining different factors enables you to offer the best rate targeting the diverse set of guests while maintaining good profit margins. 
+ 
+= Ready Plug & Play Plugins = 
+* Various widget for booking box , booking button & many more which match to your website look & feel
+* Review widget : Show all booker's reviews on website pages
+ 
+= Centralized Reservation System = 
+* Centralized place to manage rates , inventory , bookings of all accounts.
+* Single Location to Manage Rates, Inventory and Bookings
+* Walk-In Bookings
+* Dashboard for Revenue, Bookings & Visitor Statistics
+ 
+= Google Analytic and Statistics = 
+* Analytics, Adwords & Goals : The Booking engine system can be integrated with your Google Analytics account. It will let you better monitor your visitor rates and compare them to in build visitor statistics. Also, you can even set up Goals and see the progress of the goals over a period of time. Not only that, the system is also compatible with your Google Adwords account giving you clear idea about bookers coming through your Google Advertisements. 
+ 
+= Process Logs = 
+* Rate & Inventory Logs
+* Master Logs
+* Transaction Logs
+ 
+= Reports & Statistics = 
+* Various reports & statistics data for monitoring booker activity
+ 
+= SOME MORE FEATURES : =
+
+* Pre Arrival & Post email marketing : Walk that extra mile, interact with your guest before, during and after stay
+* Rate management tool : hoteliers will now have a quick access to comprehensive market behavior analysis for an efficiently managing hotel revenue and accelerating returns. 
+* Meta search API : This is available for those Hotels or Hotel groups, that wish to build their own availability page, utilizing the rate and availability information provided by for their Hotels.
+* Trip connect premium partner
+* allocation calenders for rates & inventory management
+* facebook integration page to take booking from your facebook page
+* Interface with PMS system
+* SMS interface
+
+[Explore all features](http://ezeeabsolute.com/bookingengine.php)
 
 eZee Reservation is the perfect solution for hotel, resorts, B&B, resorts, hotel chains, motels or any other accommodation type that want to receive direct bookings from their website. 
 
-The eZee Booking WordPress plugin is free to use, but you do [need an account](http://www.ezeereservation.com/live_demo.php) on [www.eZeeReservation.com.](http://www.ezeereservation.com)
+The eZee Booking WordPress plugin is free to use, but you do [need an account](www.ezeeabsolute.com/livedemo.php) on [www.eZeeAbsolute.com.](http://ezeeabsolute.com/)
 
 **eZee Booking Engine is available as a Plugin for non-Word Press sites too. eZee offers free implementation on booking engine be it a WP site or any other.**
+
+eZee provides solution for multiple properties too. Please check details on [Multiple Property Solution](http://ezeeabsolute.com/multiproperty.php)
 
 Optional Channel Manager which has connectivity to more than 80 OTA including Booking.com, Expedia, Agoda, Laterooms, Wotif Group. For full list visit [Channel Page](http://ezeeabsolute.com/channels.php)
 
@@ -57,7 +103,7 @@ Step 5: To Display the eZee Reservation on your website page. Page minimum width
 
 = How to get your own property account? =
 
-1. Create your [eZee account](http://www.ezeereservation.com/live_demo.php) & check [documentation](http://ezeereservation.com/resdemodoc/wordpress.php) for further configuration 
+1. Create your [eZee account](http://www.ezeeabsolute.com/livedemo.php) & check [documentation](http://ezeereservation.com/resdemodoc/wordpress.php) for further configuration 
 
 == Screenshots ==
     
@@ -67,10 +113,10 @@ Step 5: To Display the eZee Reservation on your website page. Page minimum width
 == Frequently Asked Questions ==
 
 = Do I need to create an eZee account? =
-Yes, you can create a free trial account from the following link http://ezeereservation.com/live_demo.php
+Yes, you can create a free trial account from the following link http://www.ezeeabsolute.com/livedemo.php
 
 = What is the pricing of eZee Reservation? =
-You can request for a quote from the following link http://www.ezeereservation.com/pricing.php
+You can request for a quote from the following link http://ezeeabsolute.com/pricing.php
 
 = Can I accept credit cards / PayPal or include my preferred payment gateway in eZee Reservation? =
 Yes, eZee Reservation offers multiple payment methods. If you want to integrate your preferred payment gateway with eZee Reservation, contact us and our team will integrate it into your eZee Reservation system. 
@@ -85,4 +131,5 @@ Yes, the booking widget is completely comstomizable and will fit the look and fe
 
 = Do I have to sign a contract of any type? =
 No, eZee Reservation is on a contract free pay-as-you-go model without any commitments. You may cancel your account at any time.
+
 
