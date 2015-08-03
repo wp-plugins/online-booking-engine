@@ -15,7 +15,7 @@ eZee Reservation plugin is solutions for hotel, resorts, B&B, hotel chains, to g
  
 [Online hotel reservation system](http://www.ezeeabsolute.com) which integrates seamlessly to the property website and gives clients the ability to book reservations, packages, and offers directly from the website. Now even more accessible with WordPress plugin, allowing you to integrate it easily with your hotel website and giving your guests the ability to book directly. Increase your global reach with eZee Reservation by providing clients with a superior booking experience.
 
-= [Live Demo , Click Here](http://www.ezeeabsolute.com/vpineresortdemo/) =
+[Live Demo , Click Here](http://www.ezeeabsolute.com/vpineresortdemo/)
 
 = KEY BENEFITS : =
 
@@ -101,9 +101,9 @@ Step 4: Activate the plugin through the 'Plugins' menu in WordPress
 Step 5: To Display the eZee Reservation on your website page. Page minimum width should be 930px. Paste the following code in page and click on update button
 [ezee_booking_engine_code]
 
-= [Live Demo , Click Here](http://www.ezeeabsolute.com/vpineresortdemo/) =
-
 * [User Wordpress Online Booking Engine Manual](http://ezeereservation.com/resdemodoc/wordpress.php)
+
+[Live Demo , Click Here](http://www.ezeeabsolute.com/vpineresortdemo/)
 
 = How to get your own property account? =
 
@@ -137,6 +137,6 @@ Yes, the booking widget is completely comstomizable and will fit the look and fe
 No, eZee Reservation is on a contract free pay-as-you-go model without any commitments. You may cancel your account at any time.
 
 = Do you have any Live demo? =
-Yes , please have a look at it on = [Live Demo , Click Here](http://www.ezeeabsolute.com/vpineresortdemo/) =
+Yes , please have a look at it on [Live Demo , Click Here](http://www.ezeeabsolute.com/vpineresortdemo/)
 
 
