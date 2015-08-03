@@ -14,7 +14,7 @@ eZee Reservation plugin is solutions for hotel, resorts, B&B, hotel chains, to g
 **eZee Online Booking Engine** is an [Online Booking System](http://ezeeabsolute.com/bookingengine.php) that provides multiple layout interfaces which suites to individual business needs with minimum click count booking process. Guests can easily find room, rate and next button with real time availability and flexibility on individual & group booking from their smart phones and tablets. Generate higher revenues by allowing your guests to access special offers, promo codes for special rates and ability to do group bookings.
  
 [Online hotel reservation system](http://www.ezeeabsolute.com) which integrates seamlessly to the property website and gives clients the ability to book reservations, packages, and offers directly from the website. Now even more accessible with WordPress plugin, allowing you to integrate it easily with your hotel website and giving your guests the ability to book directly. Increase your global reach with eZee Reservation by providing clients with a superior booking experience.
- 
+
 = KEY BENEFITS : =
 
 = Why eZee Booking Engine ? Powerful Features, Flexibility and Easy to Use Interface =
@@ -131,5 +131,4 @@ Yes, the booking widget is completely comstomizable and will fit the look and fe
 
 = Do I have to sign a contract of any type? =
 No, eZee Reservation is on a contract free pay-as-you-go model without any commitments. You may cancel your account at any time.
-
 
