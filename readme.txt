@@ -137,6 +137,6 @@ Yes, the booking widget is completely comstomizable and will fit the look and fe
 No, eZee Reservation is on a contract free pay-as-you-go model without any commitments. You may cancel your account at any time.
 
 = Do you have any Live demo? =
-Yes , please have a look at it on [Live Demo , Click Here](http://www.ezeeabsolute.com/vpineresortdemo/)
+Yes , please have a look at it on link [Live Demo , Click Here](http://www.ezeeabsolute.com/vpineresortdemo/)
 
 
