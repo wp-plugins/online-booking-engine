@@ -21,7 +21,7 @@ eZee Reservation plugin is solutions for hotel, resorts, B&B, hotel chains, to g
 
 = Why eZee Booking Engine ? Powerful Features, Flexibility and Easy to Use Interface =
 
-* Easy Navigation : Booker can easily find the rooms, rates offered, special promotions and process buttons.
+* Easy Navigation : Booker can easily find the rooms , rates offered , special promotions and process buttons.
 * Presentation Neat & Clean : Photos and rates in plain sight and neat.
 * Minimum Click counts : The two click process makes the booking process swift and easier than ever to book with your hotel.
 * Clear Rates Including Saving : The guests are able to see the amount which they will be saving with the booking easing their decision making process.
