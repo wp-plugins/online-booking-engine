@@ -3,8 +3,8 @@ Contributors: eZee Technosys
 Donate link: 
 Tags: Accommodations, Reservation, reserve room, availability, bed and breakfast, Booking, Room availability, booking form, booking system, bookings, booking enquiry, hotels , motel booking , web booking, ,online reservation, reservation plugin, rooms , b&b , booking system, holiday apartments, holiday rentals, hostel, hotel, hotels, online booking, online hotel software, PMS, reservation system, revenue management, rooms, yield management, hotel booking engine, Internet booking engine, hotel booking plugin , booking calendar , availability calendar , reservation plugin , widget , reservation widget , Bed & Breakfast , booking engine , Reservation Payments , Rental Booking , Booking Software , booking plugin , Activity Booking , villa booking , wordpress hotel booking plugin , booking system plugin , hotel management online booking , hotel booking software
 Requires at least: 3.0.1
-Tested up to: 4.2
-Stable tag: 4.2
+Tested up to: 4.3
+Stable tag: 4.3
 License: GPLv2 or later
 
 eZee Reservation plugin is solutions for hotel, resorts, B&B, hotel chains, to get commission free online bookings from their own hotel website.
