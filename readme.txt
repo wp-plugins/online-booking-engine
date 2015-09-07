@@ -73,7 +73,7 @@ Significantly increase your hotel's booking with Yield Management, the tool lets
 * Interface with PMS system
 * SMS interface
 
-[Explore all features](http://ezeeabsolute.com/bookingengine.php)
+[Explore all features](http://ezeefrontdesk.com/booking-engine.php)
 
 eZee Reservation is the perfect solution for hotel, resorts, B&B, resorts, hotel chains, motels or any other accommodation type that want to receive direct bookings from their website. 
 
@@ -84,6 +84,8 @@ The eZee Booking WordPress plugin is free to use, but you do [need an account](w
 eZee provides solution for multiple properties too. Please check details on [Multiple Property Solution](http://ezeeabsolute.com/multiproperty.php)
 
 Optional Channel Manager which has connectivity to more than 80 OTA including Booking.com, Expedia, Agoda, Laterooms, Wotif Group. For full list visit [Channel Page](http://ezeeabsolute.com/channels.php)
+
+The Online Booking Engine can also integrate with [eZee FrontDesk Hotel Management Software](http://www.ezeefrontdesk.com/).
 
 == Installation ==
 
