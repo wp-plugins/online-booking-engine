@@ -15,7 +15,7 @@ eZee Reservation plugin is solutions for hotel, resorts, B&B, hotel chains, to g
  
 [Online hotel reservation system](http://www.ezeereservation.com) which integrates seamlessly to the property website and gives clients the ability to book reservations, packages, and offers directly from the website. Now even more accessible with WordPress plugin, allowing you to integrate it easily with your hotel website and giving your guests the ability to book directly. Increase your global reach with eZee Reservation by providing clients with a superior booking experience.
 
-[Live Demo , Click Here](http://www.ezeeabsolute.com/vpineresortdemo/)
+[Live Demo , Click Here](http://www.ezeereservation.com/vpineresortdemo/)
 
 = KEY BENEFITS : =
 
@@ -139,6 +139,6 @@ Yes, the booking widget is completely comstomizable and will fit the look and fe
 No, eZee Reservation is on a contract free pay-as-you-go model without any commitments. You may cancel your account at any time.
 
 = Do you have any Live demo? =
-Yes , please have a look at it on link [Live Demo , Click Here](http://www.ezeeabsolute.com/vpineresortdemo/)
+Yes , please have a look at it on link [Live Demo , Click Here](http://www.ezeereservation.com/vpineresortdemo/)
 
 
