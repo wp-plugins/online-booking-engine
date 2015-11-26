@@ -11,9 +11,9 @@ eZee Reservation plugin is solutions for hotel, resorts, B&B, hotel chains, to g
 
 == Description ==
 
-**eZee Online Booking Engine** is an [Online Booking System](http://ezeeabsolute.com/bookingengine.php) that provides multiple layout interfaces which suites to individual business needs with minimum click count booking process. Guests can easily find room, rate and next button with real time availability and flexibility on individual & group booking from their smart phones and tablets. Generate higher revenues by allowing your guests to access special offers, promo codes for special rates and ability to do group bookings.
+**eZee Online Booking Engine** is an [Online Booking System](http://ezeereservation.com/booking-engine.php) that provides multiple layout interfaces which suites to individual business needs with minimum click count booking process. Guests can easily find room, rate and next button with real time availability and flexibility on individual & group booking from their smart phones and tablets. Generate higher revenues by allowing your guests to access special offers, promo codes for special rates and ability to do group bookings.
  
-[Online hotel reservation system](http://www.ezeeabsolute.com) which integrates seamlessly to the property website and gives clients the ability to book reservations, packages, and offers directly from the website. Now even more accessible with WordPress plugin, allowing you to integrate it easily with your hotel website and giving your guests the ability to book directly. Increase your global reach with eZee Reservation by providing clients with a superior booking experience.
+[Online hotel reservation system](http://www.ezeereservation.com) which integrates seamlessly to the property website and gives clients the ability to book reservations, packages, and offers directly from the website. Now even more accessible with WordPress plugin, allowing you to integrate it easily with your hotel website and giving your guests the ability to book directly. Increase your global reach with eZee Reservation by providing clients with a superior booking experience.
 
 [Live Demo , Click Here](http://www.ezeeabsolute.com/vpineresortdemo/)
 
@@ -81,7 +81,7 @@ The eZee Booking WordPress plugin is free to use, but you do [need an account](w
 
 **eZee Booking Engine is available as a Plugin for non-Word Press sites too. eZee offers free implementation on booking engine be it a WP site or any other.**
 
-eZee provides solution for multiple properties too. Please check details on [Multiple Property Solution](http://ezeeabsolute.com/multiproperty.php)
+eZee provides solution for multiple properties too. Please check details on [Multiple Property Solution](http://ezeereservation.com/features/crs.php)
 
 Optional Channel Manager which has connectivity to more than 80 OTA including Booking.com, Expedia, Agoda, Laterooms, Wotif Group. For full list visit [Channel Page](http://ezeeabsolute.com/channels.php)
 
@@ -122,7 +122,7 @@ Step 5: To Display the eZee Reservation on your website page. Page minimum width
 Yes, you can create a free trial account from the following link http://www.ezeeabsolute.com/livedemo.php
 
 = What is the pricing of eZee Reservation? =
-You can request for a quote from the following link http://ezeeabsolute.com/pricing.php
+You can request for a quote from the following link http://ezeereservation.com/pricing.php
 
 = Can I accept credit cards / PayPal or include my preferred payment gateway in eZee Reservation? =
 Yes, eZee Reservation offers multiple payment methods. If you want to integrate your preferred payment gateway with eZee Reservation, contact us and our team will integrate it into your eZee Reservation system. 
